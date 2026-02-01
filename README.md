@@ -1,6 +1,6 @@
 # NFT Marketplace Database Schema — Case Study (Docs-only)
 
-![Cover](./cover.png)
+![Cover](./cover.png?v=2)
 
 ## Overview
 A database-centric architecture and schema strategy for an NFT marketplace designed for high write throughput, consistent ledger projections, and reliable reconciliation with on-chain events.
